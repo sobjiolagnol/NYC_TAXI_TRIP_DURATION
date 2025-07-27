@@ -2,7 +2,6 @@
 
 ---
 
-```markdown
 # NYC_TAXI_TRIP_DURATION
 
 Projet de data science et de machine learning visant à **analyser et prédire la durée des trajets en taxi à New York City**, à partir de données historiques fournies par la NYC Taxi and Limousine Commission (TLC).  
