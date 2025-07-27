@@ -1,0 +1,39 @@
+Structure du dossier pour le volume Windows
+Le numéro de série du volume est 00DE-0DA7
+C:.
+¦   .gitignore
+¦   API.py
+¦   arborescence.txt
+¦   common.py
+¦   config.ini
+¦   evaluate.py
+¦   main
+¦   main.py
+¦   NYC_taxi_trip_duration.iml
+¦   README.md
+¦   requirements.txt
+¦   train.py
+¦   
++---.idea
+¦       .gitignore
+¦       misc.xml
+¦       modules.xml
+¦       vcs.xml
+¦       
++---venv1
+    ¦   pyvenv.cfg
+    ¦   
+    +---Scripts
+            activate
+            activate.bat
+            Activate.ps1
+            deactivate.bat
+            f2py.exe
+            normalizer.exe
+            pip.exe
+            pip3.12.exe
+            pip3.exe
+            python.exe
+            pythonw.exe
+            uvicorn.exe
+            
