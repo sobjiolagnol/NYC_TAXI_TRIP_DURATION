@@ -1,4 +1,6 @@
 
+---
+
 ```markdown
 # NYC_TAXI_TRIP_DURATION
 
@@ -30,9 +32,8 @@ L’objectif est de construire un **modèle multivarié capable de prédire la d
 ├── train.py             # Entraînement du modèle
 ├── requirements.txt     # Dépendances Python
 ├── README.md            # Ce fichier
-├── .gitignore
-├── .idea/               # Fichiers spécifiques à l’IDE (PyCharm, etc.)
-└── venv1/               # Environnement virtuel local (à ignorer)
+
+r)
 
 ````
 
