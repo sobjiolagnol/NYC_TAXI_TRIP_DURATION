@@ -1,4 +1,5 @@
 
+
 ---
 
 ```markdown
@@ -33,7 +34,6 @@ L’objectif est de construire un **modèle multivarié capable de prédire la d
 ├── requirements.txt     # Dépendances Python
 ├── README.md            # Ce fichier
 
-r)
 
 ````
 
@@ -73,4 +73,4 @@ Puis ouvrir dans un navigateur :
 python evaluate.py
 ```
 
-"# NYC_TAXI_TRIP_DURATION" 
+
